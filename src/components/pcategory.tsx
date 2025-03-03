@@ -1,13 +1,11 @@
 import React from 'react'
-import NavBar from './NavBar'
+import LandingPage from './LandingPage'
 
-export default function pcategories() {
+export default function pcategory() {
   return (
     <div>
-        <NavBar />
-        p-categories</div>
+    
+      
+    </div>
   )
 }
-
-}
-
